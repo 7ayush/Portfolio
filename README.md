@@ -1,2 +1,2 @@
 # Portfolio
-https://mishrarahul07.github.io/Portfolio/
+https://7ayush.github.io/Portfolio/
